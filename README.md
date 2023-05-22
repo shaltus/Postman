@@ -6,6 +6,8 @@
         E2ODQ3NDEwMzR9.anIFQ0d9gMt22RHXxBCd7pjzi81mNdlWjCqE10usXbc"
     }
 }
+
+
 Залогинилась: {
     "user": {
         "username": "qwertyman",
@@ -15,6 +17,8 @@
         E2ODQ3NDEyNDV9.9s6W3y7-cysQyuX-gdEmUyjhbVfZZewpQ-kYxiHwGFU"
     }
 }
+
+
 Авторизовалась: {
     "user": {
         "username": "qwertyman",
